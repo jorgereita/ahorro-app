@@ -1,0 +1,147 @@
+ 
+
+.example-element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.mat-paginator-page-size {
+  align-items: center!important;
+}
+
+.mat-paginator-page-size-select {
+  .mat-form-field-wrapper {
+    padding: 0;
+  }
+}
+
+.min-height-100 {
+  min-height: 100vh;
+}
+
+.separator {
+  width: 90%;
+  margin: auto;
+  border-bottom: 1px solid #515B6C;
+  height: 1px;
+
+  &__dashed {
+    border-bottom: 1px dashed #515B6C;
+  }
+}
+
+.btn-round{
+  height: 21px;
+  width: 64px;
+  left: 287px;
+  top: 800px;
+  border-radius: 10px;
+}
+
+.btn-g{
+  height: 15px;
+  width: 44px;
+  left: 5px;
+  top: 0px;
+  position: relative;
+}
+.underline {
+  text-decoration: underline;
+}
+
+.radius-5 {
+  border-radius: 5px;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.statistic-card {
+  &__active {
+    background: rgba(3, 14, 29, 0.5);
+  }
+}
+.title2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  // display: flex;
+  align-items: center;
+}
+.Subtitle2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+}
+.Normal1{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+}
+.Normal2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+.Caption2{
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: -0.03em;
+}
+.Menu1{
+  display:flex;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #817699;
+}
+.Menu2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 200; 
+  font-size: 10px;
+  line-height: 14px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.03em;
+} 
+.Caption1{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.03em;
+color: #58506B;
+}
+.Caption2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.03em;
+  color: #58506B;
+}
